@@ -15,5 +15,6 @@ def engine():
     data = get_data()
     for ques in data:
         selected_ans = select_ans(ques['Ans'])
+        ques['selected_ans'] = selected_ans
 if __name__ == "__main__":
     engine()
