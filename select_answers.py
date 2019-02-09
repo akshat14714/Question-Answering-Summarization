@@ -8,7 +8,7 @@ def select_ans(Ans_arr):
     mean = float(np.mean(score))
     std  = float(np.std(score))
     for entry in Ans_arr:
-        if float(entry['GScore']) > mean + std:
+        if float(entry['GScore']) >= mean + std:
             ans.append(entry)
     return ans
 def engine():
@@ -16,5 +16,8 @@ def engine():
     for ques in data:
         selected_ans = select_ans(ques['Ans'])
         ques['selected_ans'] = selected_ans
+        print(ques['QId'],len(selected_ans), len(ques['Ans']))
+        print()
+
 if __name__ == "__main__":
     engine()
