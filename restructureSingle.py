@@ -23,7 +23,7 @@ def restructrure(dataFrame):
                 myLis.append(temp)
     return myLis
 def get_data():
-    df = loadFile('q1.csv')
+    df = loadFile('qeury.csv')
     myLis = restructrure(df)
     return myLis
 # pprint.pprint(myLis)
