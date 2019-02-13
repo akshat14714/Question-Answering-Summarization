@@ -22,6 +22,7 @@ def restructrure(dataFrame):
     if temp!= {}:
                 myLis.append(temp)
     return myLis
+
 def get_data():
     df = loadFile('q1.csv')
     myLis = restructrure(df)
