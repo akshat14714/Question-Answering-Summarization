@@ -1,4 +1,5 @@
 from restructureSingle import *
+import nltk
 
 def select_ans(Ans_arr):
     ans = []
@@ -26,11 +27,15 @@ def remove_tags(inp):
 
 def engine():
     data = get_data()
+    myLis = []
+    temp = {}
     for ques in data:
         selected_ans = select_ans(ques['Ans'])
         ques['selected_ans'] = remove_tags(selected_ans)
-        print(ques['selected_ans'])
-        print()
-
-if __name__ == "__main__":
-    engine()
+        # print(ques['QId'])
+        # print(ques['selected_ans'])
+        # print()
+        temp = {k:v for k,v in ques.items()}
+        myLis.append(temp)
+    
+    return myLis
