@@ -24,7 +24,7 @@ def restructrure(dataFrame):
     return myLis
 
 def get_data():
-    df = loadFile('q1.csv')
+    df = loadFile('query.csv')
     myLis = restructrure(df)
     return myLis
 # pprint.pprint(myLis)

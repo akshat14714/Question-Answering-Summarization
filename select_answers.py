@@ -35,7 +35,7 @@ def engine():
         # print(ques['QId'])
         # print(ques['selected_ans'])
         # print()
-        temp = {k:v for k,v in ques.items() if k!='Ans'}
+        temp = {k:v for k,v in ques.items()}
         myLis.append(temp)
     
     return myLis
