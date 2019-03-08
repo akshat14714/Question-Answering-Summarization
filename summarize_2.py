@@ -48,11 +48,12 @@ def summarize(article_text):
 	scores = nx.pagerank(nx_graph)
 	ranked_sentences = sorted(((scores[i],s) for i,s in enumerate(sentences)), reverse=True)
 	
-	no_of_sentences = min(3,len(article_text))
-	print(no_of_sentences)
-	for i in range(no_of_sentences):
-		print(ranked_sentences[i][1])
+	# no_of_sentences = min(3,len(article_text))
+	# print(no_of_sentences)
+	# for i in range(no_of_sentences):
+	# 	print(ranked_sentences[i][1])
+	return ranked_sentences
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 	
-    summarize(article_text)
+#     summarize(article_text)

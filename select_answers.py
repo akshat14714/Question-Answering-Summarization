@@ -25,7 +25,7 @@ def remove_tags(inp):
         ans.append(arr)
     return ans
 
-def engine():
+def get_selected_answers():
     data = get_data()
     myLis = []
     temp = {}

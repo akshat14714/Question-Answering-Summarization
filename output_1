@@ -1,0 +1,835 @@
+{'Ans': [{'GBody': '<p>I use two types of cutting boards: wood and [soft] '
+                   'plastic. The plastic is for meat, or anything that could '
+                   'ruin a wood cutting board. Wood is for everything else. If '
+                   'you can afford it, try to get an end-grain wood cutting '
+                   'board.</p>\n'
+                   '\n'
+                   "<p>Bamboo is a popular choice right now (it's affordable "
+                   "and sustainable), but I don't have any personal experience "
+                   'with it.</p>\n'
+                   '\n'
+                   '<p>Most other materials, especially glass, will ruin your '
+                   'knives.</p>\n',
+          'GId': 202,
+          'GScore': 11},
+         {'GBody': "<p>Don't use a glass board. It dulls the edge of the knife "
+                   'and the food you are trying to cut is more likely to slip '
+                   'than on a wood/plastic board.</p>\n',
+          'GId': 205,
+          'GScore': 7},
+         {'GBody': 'Besides the material itself, there are lots of other '
+                   'factors -- \n'
+                   '\n'
+                   'Surface : There are smooth plastic cutting boards, and '
+                   'there are rougher ones.  I prefer the rougher ones, as '
+                   'smooth means things are slipping all over the place and '
+                   'its can be dangerous.  Plastic will roughen up with use, '
+                   'but cuts and nicks in plastic boards means more places for '
+                   "germs.  For those thin plastic cutting mats, they're so "
+                   'lightweight that you have to worry about both the food '
+                   'sliding, and the mat itself sliding.\n'
+                   '\n'
+                   "Thickness : Those 'butcher block' wooden boards look "
+                   "great, but I don't like them for two reasons: I'm short, "
+                   "and it raises the surface that I'm cutting at; they're "
+                   'heavier, and I like being able to pick up my cutting board '
+                   'to take to my stove, as my cutting area is near my sink, '
+                   'not my stove.\n'
+                   '\n'
+                   'Size : Large enough to hold the amount of food you tend to '
+                   "prep at one time, and not so overly large that it's a pain "
+                   'to move / clean / etc.  I like about 18" x 24" (45cm x '
+                   "60cm), but if you're cooking for one in a small apartment, "
+                   'that might be a little large.  (although, one of my '
+                   'apartments was small enough that I used a large board, so '
+                   'I could span the sink, as there was all of maybe 30" '
+                   '(75cm) of counter space.\n'
+                   '\n'
+                   'All this being said -- I use wood for all vegetables, and '
+                   'plastic cutting mats for meats and poultry, just because '
+                   'it saves me time sanitizing everything between cutting.  '
+                   '(although, I typically try to cut all of the vegetables '
+                   'first, then the meat, just to save on cleaning a knife).\n'
+                   '\n'
+                   "Part of the complaint against wood is that it's very hard "
+                   'to get germs out once they get into wood -- but <a '
+                   'href="http://faculty.vetmed.ucdavis.edu/faculty/docliver/Research/cuttingboard.htm">research '
+                   'has shown that if you clean the surface, wood cutting '
+                   'boards are unlikely to transfer germs to other food, and a '
+                   'well-maintained wooden cutting board will self-heal and '
+                   "continues to be safe over time, whereas plastic can't be "
+                   'simply wiped down once it starts developed scratches from '
+                   'use.  To sanitize wood boards, use half a lemon, and '
+                   'coarse salt (I use kosher salt), and use the cut side to '
+                   'scrub the board.  Rinse, let it dry, and give it some '
+                   'food-grade mineral oil every few months, depending on how '
+                   "humid your area is.  If it's looking sad, you can always "
+                   'sand it down, re-sanitize it and re-oil it.\n',
+          'GId': 685,
+          'GScore': 14},
+         {'GBody': '<p>How about something on the edge of the board (like a '
+                   'soft rubber "fence" maybe .5" tall) that keeps the food '
+                   "from falling off.  I realize this is tricky b/c you don't "
+                   'want the "fence" to interfere w/ the cutting. But it '
+                   'drives me nuts that food is always falling off the edge '
+                   '(just a tiny amount but enough to make a mess).</p>\n',
+          'GId': 15409,
+          'GScore': 1}],
+ 'QBody': '<p>I have heard various debates on the merits of wood versus '
+          'synthetic cutting boards, and their affect on food safety, knife '
+          'edges, and ease of cleaning and storage.</p>\n'
+          '\n'
+          '<p>What are the pros and cons of the following and why?</p>\n'
+          '\n'
+          '<ul>\n'
+          '<li>Wood versus plastic or other materials</li>\n'
+          '<li>Affect on food safety and cleanliness</li>\n'
+          '<li>Cost to purchase</li>\n'
+          '<li>Affect on knife edge and ease of use</li>\n'
+          '</ul>\n',
+ 'QId': 183,
+ 'QTags': '<equipment><knives><cutting><chopping><cutting-boards>',
+ 'QTitle': 'Cutting boards: What are some general tips on purchasing and using '
+           'a cutting board?',
+ 'selected_ans': [{'GBody': 'Besides the material itself, there are lots of '
+                            'other factors -- \n'
+                            '\n'
+                            'Surface : There are smooth plastic cutting '
+                            'boards, and there are rougher ones.  I prefer the '
+                            'rougher ones, as smooth means things are slipping '
+                            'all over the place and its can be dangerous.  '
+                            'Plastic will roughen up with use, but cuts and '
+                            'nicks in plastic boards means more places for '
+                            'germs.  For those thin plastic cutting mats, '
+                            "they're so lightweight that you have to worry "
+                            'about both the food sliding, and the mat itself '
+                            'sliding.\n'
+                            '\n'
+                            "Thickness : Those 'butcher block' wooden boards "
+                            "look great, but I don't like them for two "
+                            "reasons: I'm short, and it raises the surface "
+                            "that I'm cutting at; they're heavier, and I like "
+                            'being able to pick up my cutting board to take to '
+                            'my stove, as my cutting area is near my sink, not '
+                            'my stove.\n'
+                            '\n'
+                            'Size : Large enough to hold the amount of food '
+                            'you tend to prep at one time, and not so overly '
+                            "large that it's a pain to move / clean / etc.  I "
+                            'like about 18" x 24" (45cm x 60cm), but if '
+                            "you're cooking for one in a small apartment, that "
+                            'might be a little large.  (although, one of my '
+                            'apartments was small enough that I used a large '
+                            'board, so I could span the sink, as there was all '
+                            'of maybe 30" (75cm) of counter space.\n'
+                            '\n'
+                            'All this being said -- I use wood for all '
+                            'vegetables, and plastic cutting mats for meats '
+                            'and poultry, just because it saves me time '
+                            'sanitizing everything between cutting.  '
+                            '(although, I typically try to cut all of the '
+                            'vegetables first, then the meat, just to save on '
+                            'cleaning a knife).\n'
+                            '\n'
+                            "Part of the complaint against wood is that it's "
+                            'very hard to get germs out once they get into '
+                            'wood -- but <a '
+                            'href="http://faculty.vetmed.ucdavis.edu/faculty/docliver/Research/cuttingboard.htm">research '
+                            'has shown that if you clean the surface, wood '
+                            'cutting boards are unlikely to transfer germs to '
+                            'other food, and a well-maintained wooden cutting '
+                            'board will self-heal and continues to be safe '
+                            "over time, whereas plastic can't be simply wiped "
+                            'down once it starts developed scratches from '
+                            'use.  To sanitize wood boards, use half a lemon, '
+                            'and coarse salt (I use kosher salt), and use the '
+                            'cut side to scrub the board.  Rinse, let it dry, '
+                            'and give it some food-grade mineral oil every few '
+                            'months, depending on how humid your area is.  If '
+                            "it's looking sad, you can always sand it down, "
+                            're-sanitize it and re-oil it.\n',
+                   'GId': 685,
+                   'GScore': 14}]}
+[(0.07614868215078838,
+  "Thickness : Those 'butcher block' wooden boards look great, but I don't "
+  "like them for two reasons: I'm short, and it raises the surface that I'm "
+  "cutting at; they're heavier, and I like being able to pick up my cutting "
+  'board to take to my stove, as my cutting area is near my sink, not my '
+  'stove.'),
+ (0.0751093203463594,
+  "Part of the complaint against wood is that it's very hard to get germs out "
+  'once they get into wood -- but <a '
+  'href="http://faculty.vetmed.ucdavis.edu/faculty/docliver/Research/cuttingboard.htm">research '
+  'has shown that if you clean the surface, wood cutting boards are unlikely '
+  'to transfer germs to other food, and a well-maintained wooden cutting board '
+  "will self-heal and continues to be safe over time, whereas plastic can't be "
+  'simply wiped down once it starts developed scratches from use.'),
+ (0.0750592040849202,
+  'Size : Large enough to hold the amount of food you tend to prep at one '
+  "time, and not so overly large that it's a pain to move / clean / etc."),
+ (0.07386682789112264,
+  '(although, one of my apartments was small enough that I used a large board, '
+  'so I could span the sink, as there was all of maybe 30" (75cm) of counter '
+  'space.'),
+ (0.0733311880973018,
+  '(although, I typically try to cut all of the vegetables first, then the '
+  'meat, just to save on cleaning a knife).'),
+ (0.07271596309377791,
+  'Besides the material itself, there are lots of other factors -- \n'
+  '\n'
+  'Surface : There are smooth plastic cutting boards, and there are rougher '
+  'ones.'),
+ (0.07124143290410025,
+  'All this being said -- I use wood for all vegetables, and plastic cutting '
+  'mats for meats and poultry, just because it saves me time sanitizing '
+  'everything between cutting.'),
+ (0.07090486469473954,
+  'Rinse, let it dry, and give it some food-grade mineral oil every few '
+  'months, depending on how humid your area is.'),
+ (0.0706575607786656,
+  'Plastic will roughen up with use, but cuts and nicks in plastic boards '
+  'means more places for germs.'),
+ (0.0700087797323334,
+  'To sanitize wood boards, use half a lemon, and coarse salt (I use kosher '
+  'salt), and use the cut side to scrub the board.'),
+ (0.06965360867561907,
+  'I prefer the rougher ones, as smooth means things are slipping all over the '
+  'place and its can be dangerous.'),
+ (0.06918230716630498,
+  'I like about 18" x 24" (45cm x 60cm), but if you\'re cooking for one in a '
+  'small apartment, that might be a little large.'),
+ (0.06712337905336249,
+  "If it's looking sad, you can always sand it down, re-sanitize it and re-oil "
+  'it.'),
+ (0.06499688133060431,
+  "For those thin plastic cutting mats, they're so lightweight that you have "
+  'to worry about both the food sliding, and the mat itself sliding.')]
+{'Ans': [{'GBody': '<p>Totally depends on the rice - I usually read the back '
+                   'of the bag or whatever.</p>\n',
+          'GId': 192,
+          'GScore': 2},
+         {'GBody': "<p>There isn't really a simple answer to this question due "
+                   'to the many variables of personal preference, rice type, '
+                   'water hardness, etc.</p>\n'
+                   '\n'
+                   '<p>I suggest buying a proper rice cooker: <a '
+                   'href="http://rads.stackoverflow.com/amzn/click/B000MAKVLQ">Zojirushi '
+                   'NP-HBC10 5-1/2-Cup Rice Cooker and Warmer with Induction '
+                   'Heating System, Stainless Steel</a>. (I love mine!)</p>\n'
+                   '\n'
+                   '<p>The rice cooker has precise instructions and '
+                   'measurements for each type of rice, even the more obscure '
+                   'types.</p>\n',
+          'GId': 194,
+          'GScore': 15},
+         {'GBody': 'Depends on the rice, of course - here are the most common '
+                   'types:\n'
+                   '\n'
+                   '\n'
+                   'White rice: 2:1\n'
+                   'Brown rice: 1.5:1\n'
+                   'Jasmine rice: 1.1:1\n'
+                   'Wild rice: 4:1, but immediately wash with cold water and '
+                   'drain when done.\n'
+                   '\n',
+          'GId': 220,
+          'GScore': 24},
+         {'GBody': '<p>We typically eat jasmine rice. For 2 people we use 1/2 '
+                   'c rice to 3/4 c water. After boiling and letting the '
+                   'boiling settle, cook for 7 min.</p>\n',
+          'GId': 233,
+          'GScore': 4},
+         {'GBody': '<p>You\'re better off going with 1" above the rice as a '
+                   "guide, if you're boiling long grain white rice, rather "
+                   'than a ratio of liquid to rice.  (except minute rice -- my '
+                   'neighbor once asked me your same question, and I later '
+                   'found out she was cooking minute rice ... oops)</p>\n'
+                   '\n'
+                   "<p>If you're going for paella, where it's a really wide "
+                   'dish, then I go with about 2:1, but some of that liquid '
+                   'might come from tomatoes.</p>\n'
+                   '\n'
+                   "<p>If I'm cooking risotto, I tend to heat up twice the "
+                   'amount of stock as rice, but I might not use it all -- and '
+                   'if I think I might run out, after adding a ladle of stock '
+                   "to the rice, I'll add some water to heat up so it'll get a "
+                   'chance to warm up.  (and it helps to have some extra '
+                   'liquid left over to deal with reheating leftovers)</p>\n'
+                   '\n'
+                   '<p>And mentioning leftovers -- unlike @Dinah, I never cook '
+                   'less than 2c. of rice at a time -- leftovers come in handy '
+                   'for rice salad or nasi goreng (Indonedian-style fried '
+                   'rice), or to package up with whatever the main dish was '
+                   'for lunches the next day.</p>\n',
+          'GId': 501,
+          'GScore': 9},
+         {'GBody': '<p>It also depends how you want to cook the rice. '
+                   'Steaming, boiling, in the oven, pilau...</p>\n',
+          'GId': 525,
+          'GScore': 0},
+         {'GBody': '<p>For simplicities sake, I go for a ratio of 2:1. If '
+                   "there's still water in the rice after it's cooked, just "
+                   'keep it on the heat with the lid off for a while. </p>\n'
+                   '\n'
+                   "<p>Also - If you're going to cook rice this way, it's "
+                   "important that you don't stir it whilst cooking. </p>\n",
+          'GId': 718,
+          'GScore': 1}],
+ 'QBody': '<p>When making rice, what is the proper ratio of water that I '
+          'should use?</p>\n',
+ 'QId': 190,
+ 'QTags': '<rice>',
+ 'QTitle': 'Proper ratio of Water to Rice',
+ 'selected_ans': [{'GBody': 'Depends on the rice, of course - here are the '
+                            'most common types:\n'
+                            '\n'
+                            '\n'
+                            'White rice: 2:1\n'
+                            'Brown rice: 1.5:1\n'
+                            'Jasmine rice: 1.1:1\n'
+                            'Wild rice: 4:1, but immediately wash with cold '
+                            'water and drain when done.\n'
+                            '\n',
+                   'GId': 220,
+                   'GScore': 24}]}
+[(1.0,
+  'Depends on the rice, of course - here are the most common types:\n'
+  '\n'
+  '\n'
+  'White rice: 2:1\n'
+  'Brown rice: 1.5:1\n'
+  'Jasmine rice: 1.1:1\n'
+  'Wild rice: 4:1, but immediately wash with cold water and drain when done.')]
+{'Ans': [{'GBody': '<p>Normally tomato sauce (Ragu, Prego, etc) with Parmesean '
+                   'cheese on top.</p>\n',
+          'GId': 196,
+          'GScore': 2},
+         {'GBody': '<p>A little salt in the water used to boil the spaghetti.\n'
+                   'For a sauce, our family likes a tomato sauce, like a '
+                   'marinara, that we buy in a jar, and we add cooked ground '
+                   'beef to the sauce to make it a meat sauce.</p>\n',
+          'GId': 198,
+          'GScore': 0},
+         {'GBody': 'The most common preparation is tomato sauce and parmesan '
+                   'cheese.\n'
+                   '\n'
+                   'Of course, some Americans will tell you that the only '
+                   'truly American way to eat spaghetti is to top it with '
+                   'chili, then shredded cheddar cheese, then chopped onions, '
+                   "then red kidney beans.  It's hard to fully express the "
+                   'majesty of this dish, and should only be enjoyed on '
+                   'special occasions, like the Super Bowl.\n'
+                   '\n'
+                   'In Canada (which I consider to be basically "American"), '
+                   "it's also fairly common to add or replace the tomato sauce "
+                   'with pesto sauce.  Soft goat cheese is another common '
+                   'additive.  Perhaps these sound "Italian" but I\'d consider '
+                   'an Italian pasta to be something more like a bolognese, '
+                   'carbonara, alfredo, or even the trusty old butter/olive '
+                   "oil and parmesan cheese.  You'll almost never see tomato "
+                   'sauce combined with pesto sauce in an authentic Italian '
+                   "restaurant (or in Italy), but it's common in American home "
+                   'cooking.\n',
+          'GId': 211,
+          'GScore': 5},
+         {'GBody': '<p>Besides what @Aaronut mentioned with Cincinnati style '
+                   "chili, if we're talking pasta in general, and not just "
+                   'spaghetti, I\'d say the "American" pasta dish is macaroni '
+                   'and cheese -- from a box.</p>\n'
+                   '\n'
+                   "<p>Although there's regional variations (eg, lobster in "
+                   "New England), it's found in a much wider area than (N)-way "
+                   'chili (3: spaghetti,chili,cheese; 4: add onions; 5: add '
+                   'beans)</p>\n'
+                   '\n'
+                   '<p>Also popular is "macaroni salad", at least along the '
+                   'east coast from at least Pennsylvania to Georgia.</p>\n'
+                   '\n'
+                   "<p>My mom's second-generation Italian-American, so I grew "
+                   'up with carbonara / pesto / oil and garlic / butter and '
+                   'parmesan / crab / tuna / primavera / bechamal / etc '
+                   '(bascially, whatever was in season and/or cheap).  My '
+                   'neighbors on the other hand (friends from high school, we '
+                   'take turns cooking), never cooked anything other than '
+                   'tomato sauce from a jar and/or mac and cheese (from a '
+                   'box).  They were even surprised when I introduced them to '
+                   'chili over pasta (but their kids loved it).</p>\n',
+          'GId': 511,
+          'GScore': 4},
+         {'GBody': '<p>By far, my most common pasta dish to cook is spaghetti '
+                   'in tomato sauce, straight outa my <em>California Heritage '
+                   "Cookbook</em>. Can't get more American than that, can you? "
+                   ';-)</p>\n'
+                   '\n'
+                   '<p>This tomato sauce is no marinara. It has ground beef, '
+                   'mushrooms, onions, garlic, and celery, and is otherwise '
+                   'made from a base of tomato sauce (29 oz) and tomato paste '
+                   '(6 oz), which gives it a particular consistency and flavor '
+                   "that I'm guessing is more American than Italian, since "
+                   "none of the Italian restaurants I've been to do bolognese "
+                   'in quite that way. The olive oil used for sauteeing the '
+                   'beef &amp; mushrooms is first used to sautee the onions '
+                   'and garlic, which lends a fantastic aroma to the '
+                   'kitchen.</p>\n'
+                   '\n'
+                   '<p>Baked spaghetti is another classic that my elementary '
+                   'school cafeteria loved to do. Take leftover spaghetti in '
+                   'meat sauce, liberally sprinkle cheddar and/or Monterey '
+                   'Jack cheese on top, and bake in a 350F oven for 30 min or '
+                   'so. For the full American educational institution '
+                   'experience, serve with an ice cream or similarly shaped '
+                   'scoop onto a styrofoam tray. :-)</p>\n'
+                   '\n'
+                   "<p>Baked macaroni and cheese is the third I'd mention. It "
+                   'involves layers of large elbow macaroni and cheddar '
+                   'cheese, plus a dash of paprika in the sauce for flavoring '
+                   '(well OK, these days I use a bit more than a dash :-) ). I '
+                   'use the recipe from the <em>Joy of Cooking</em>. For the '
+                   'full-out American experience (not for the faint of '
+                   'heart!), substitute "American cheese" (can you even get '
+                   'this outside of the States?) and butter for the '
+                   'cheddar.</p>\n',
+          'GId': 544,
+          'GScore': 2},
+         {'GBody': '<p>The history of <a '
+                   'href="http://www.youtube.com/watch?v=iDm3gtKLaVw" '
+                   'rel="nofollow">american spaghetti and meat sauce</a>. '
+                   "It's popularity in America can be traced back to a "
+                   'cookbook published in 1920 by an association of pasta '
+                   'manufacturers.</p>\n',
+          'GId': 4123,
+          'GScore': 1}],
+ 'QBody': '<p>When I visit the States I see a lot of pasta and spaghetti in '
+          'the supermarkets. I wonder which is the typical seasoning (sauce or '
+          'similar) used by Americans when they cook spaghetti. Of course, '
+          "when they don't cook Italian-style.</p>\n",
+ 'QId': 191,
+ 'QTags': '<spaghetti><american-cuisine><pasta>',
+ 'QTitle': 'Which is a typically American way of seasoning spaghetti and other '
+           'pasta?',
+ 'selected_ans': [{'GBody': 'The most common preparation is tomato sauce and '
+                            'parmesan cheese.\n'
+                            '\n'
+                            'Of course, some Americans will tell you that the '
+                            'only truly American way to eat spaghetti is to '
+                            'top it with chili, then shredded cheddar cheese, '
+                            "then chopped onions, then red kidney beans.  It's "
+                            'hard to fully express the majesty of this dish, '
+                            'and should only be enjoyed on special occasions, '
+                            'like the Super Bowl.\n'
+                            '\n'
+                            'In Canada (which I consider to be basically '
+                            '"American"), it\'s also fairly common to add or '
+                            'replace the tomato sauce with pesto sauce.  Soft '
+                            'goat cheese is another common additive.  Perhaps '
+                            'these sound "Italian" but I\'d consider an '
+                            'Italian pasta to be something more like a '
+                            'bolognese, carbonara, alfredo, or even the trusty '
+                            "old butter/olive oil and parmesan cheese.  You'll "
+                            'almost never see tomato sauce combined with pesto '
+                            'sauce in an authentic Italian restaurant (or in '
+                            "Italy), but it's common in American home "
+                            'cooking.\n',
+                   'GId': 211,
+                   'GScore': 5}]}
+[(0.15170670633568079,
+  "You'll almost never see tomato sauce combined with pesto sauce in an "
+  "authentic Italian restaurant (or in Italy), but it's common in American "
+  'home cooking.'),
+ (0.15073739371714168,
+  'In Canada (which I consider to be basically "American"), it\'s also fairly '
+  'common to add or replace the tomato sauce with pesto sauce.'),
+ (0.14929434696758714,
+  'Perhaps these sound "Italian" but I\'d consider an Italian pasta to be '
+  'something more like a bolognese, carbonara, alfredo, or even the trusty old '
+  'butter/olive oil and parmesan cheese.'),
+ (0.14841113154596994,
+  'Of course, some Americans will tell you that the only truly American way to '
+  'eat spaghetti is to top it with chili, then shredded cheddar cheese, then '
+  'chopped onions, then red kidney beans.'),
+ (0.13876913585408845, 'Soft goat cheese is another common additive.'),
+ (0.13583929367447628,
+  'The most common preparation is tomato sauce and parmesan cheese.'),
+ (0.12524199190505575,
+  "It's hard to fully express the majesty of this dish, and should only be "
+  'enjoyed on special occasions, like the Super Bowl.')]
+{'Ans': [{'GBody': "<p>You have to clean them, since they're covered in dirt. "
+                   'I rub them gently with a wet paper towel so that the skin '
+                   "isn't peeled off too much.</p>\n",
+          'GId': 209,
+          'GScore': 2},
+         {'GBody': '<p>I have a small brush (like <a '
+                   'href="http://rads.stackoverflow.com/amzn/click/B000SSSUH4" '
+                   'rel="nofollow">this one</a>) that I use to "dust off" the '
+                   "mushrooms. I don't use water at all.</p>\n",
+          'GId': 210,
+          'GScore': 2},
+         {'GBody': 'I find that brushes and even paper towels are too rough on '
+                   'mushrooms. I use cold running water and gentle rubbing by '
+                   'hand.\n',
+          'GId': 212,
+          'GScore': 26},
+         {'GBody': '<p>I use a soft brush (shaped like a mushroom!) and '
+                   "running water. Mushrooms don't absorb very much water, "
+                   "despite what you might think, so it's not a problem to "
+                   "wash them. If you're going to fry them, and are worried "
+                   "about splattering, they'll air dry fairly quickly after "
+                   'washing. </p>\n'
+                   '\n'
+                   '<p>And yes, mushrooms are grown on rotting wood and '
+                   "composted manure. Not going to hurt you, but it's a little "
+                   'distasteful not to wash them!</p>\n',
+          'GId': 213,
+          'GScore': 10},
+         {'GBody': '<p>For larger white and crimini mushrooms I typically just '
+                   'brush them off lightly with a dry paper towel.  Wet towels '
+                   'tend to smear the dust across the mushroom.  I dislike '
+                   'mushroom brushes as they just clutter up the drawers and '
+                   'paper towels are always available if needed.</p>\n'
+                   '\n'
+                   '<p>Button-size mushrooms tend to be more likely to be '
+                   'dusty and are difficult to hold onto so the above method '
+                   "isn't very effective.  For these, place them in a bowl of "
+                   'cool water and quickly swish them around.  Then lift them '
+                   'out and onto some absorbent paper towels or terry towels '
+                   "and pat them dry.  Don't drain the mushrooms in a colander "
+                   "as you'll just be pouring the dust back on them.  Don't "
+                   'wash anymore than you intend to use as excessive moisture '
+                   'is the primary enemy of mushrooms and can make them begin '
+                   'to deteriorate.  Excessive handling and washing can damage '
+                   'the surface cells which will cause discoloration.</p>\n'
+                   '\n'
+                   "<p>Shiitake and Oyster mushrooms typically don't need to "
+                   'be cleaned in either way as they are rarely dirty.</p>\n'
+                   '\n'
+                   "<p>A small brush (such as artist's brush) can be "
+                   'beneficial for cleaning morels since they are truly "wild" '
+                   'and can have bugs and dirt inside their nooks and '
+                   'crannies.</p>\n',
+          'GId': 1352,
+          'GScore': 17},
+         {'GBody': '<p>I think this is because if you wash the mushrooms then '
+                   'immediately fry them you incidentally add more water and '
+                   '(partially) steam them.</p>\n'
+                   '\n'
+                   '<p>Wash the mushrooms, pad dry and put them in a cool '
+                   'place on kitchen paper for a couple of hours before '
+                   'cooking. By this time most of the excess water will '
+                   'probably have evaporated.</p>\n',
+          'GId': 1354,
+          'GScore': 2},
+         {'GBody': '<p>I use an 1.5" paint brush to clean mushrooms with. I '
+                   'actually have two, one with the bristles as bought, and '
+                   'another with the bristles cut about half the length. This '
+                   'provides a bit more "scrubbing" if needed.</p>\n'
+                   '\n'
+                   '<p>I also use an 1.5" paint brush when gathering '
+                   "'shrooms, a quick  brush after cutting  (no ripping from "
+                   "the ground please), This get's the worst off right away "
+                   'and makes cleaning once at home alot easier.</p>\n',
+          'GId': 63526,
+          'GScore': 4}],
+ 'QBody': '<p>Some people say cleaning with water removes the taste from '
+          'mushrooms. </p>\n'
+          '\n'
+          "<p>But if I don't use water the mushrooms will carry a lot of "
+          'dust.</p>\n'
+          '\n'
+          "<p>Do you have any techniques for cleaning mushroom so I don't eat "
+          "crap but don't spoil the mushroom?</p>\n",
+ 'QId': 203,
+ 'QTags': '<mushrooms>',
+ 'QTitle': 'How to clean mushrooms?',
+ 'selected_ans': [{'GBody': 'I find that brushes and even paper towels are too '
+                            'rough on mushrooms. I use cold running water and '
+                            'gentle rubbing by hand.\n',
+                   'GId': 212,
+                   'GScore': 26}]}
+[(0.5, 'I use cold running water and gentle rubbing by hand.'),
+ (0.5, 'I find that brushes and even paper towels are too rough on mushrooms.')]
+{'Ans': [{'GBody': "The real stuff is expensive because it's still actually "
+                   "cheese. If you're gonna use the canned stuff, you're "
+                   'probably better off just leaving it out entirely (or '
+                   'sprinkling it on top at the table as-desired...)\n'
+                   '\n'
+                   "It doesn't take a lot of cheese either - it's pretty "
+                   'strong stuff. You can probably get away with just a few '
+                   'ounces...\n',
+          'GId': 229,
+          'GScore': 7},
+         {'GBody': '<p>Are you absolutely certain that the "grittiness" is '
+                   'caused by the cheese not melting, and not because the '
+                   'sauce is curdling?  If you cook it too long or too fast, '
+                   'that is what will happen.</p>\n'
+                   '\n'
+                   '<p>If you <em>must</em> use the Kraft stuff (personally, I '
+                   'think it has no flavour compared to real Reggiano), try '
+                   'melting the cheese on low heat in a very small amount of '
+                   'cream first, before you add it to the main sauce pan.  If '
+                   "it's still gritty, either it's curdling or you need to use "
+                   'a better cheese.</p>\n',
+          'GId': 239,
+          'GScore': 6},
+         {'GBody': '<p>The longer the cheese has aged, the better cooking '
+                   "quality, that's why Italian restaurants, at least the "
+                   'decent ones only use Reggiano to cook with. Things like '
+                   'Grano or less expensive cheese should be used as garnish. '
+                   'You need to take the cooked pasta, add it to the cream '
+                   'over high, until it is almost reduced to what you want, '
+                   'pull it off the heat, add a knob of butter, and a handful '
+                   'of shredded reg. The cheese will tighten the sauce so '
+                   "don't over reduce cream. </p>\n"
+                   '\n'
+                   '<p>Different types of cheeses have different melting '
+                   'characteristics. Processed cheeses like American cheese '
+                   'melt more quickly and easily than most natural cheeses '
+                   'because they have low meting points. Among the natural '
+                   'cheese, the driest ones - if finely grated - tend to melt '
+                   'better than their moist counterparts because their protein '
+                   'is less likely to separate from the emulsion and coagulate '
+                   'into tough, chewy strands that diminish the appearance and '
+                   'texture of the dish. This is why knowledgeable cooks '
+                   'prefer to use "cooking cheeses" like Parmigiano-Reggiano '
+                   '(authentic Parmesan) for preparations like sauces, where '
+                   'the cheese must become well integrated. The longer this '
+                   'cheese has been aged, the better its cooking '
+                   'qualities.</p>\n',
+          'GId': 29614,
+          'GScore': 4},
+         {'GBody': '<p>This is an old question, but for the sake of '
+                   'completeness: Parmesan, even the high-end stuff, really '
+                   "doesn't melt well. I've found that in any sauce containing "
+                   "it, it's got to be grated as finely as possible, or you "
+                   "get little globules of it that won't ever dissolve. That's "
+                   'tough to do with pre-grated Kraft cheese, but if you can '
+                   'find a good price on block parmesan, use the finest holes '
+                   'on your grater, or a Microplane. Then incorporate it '
+                   'slowly into the sauce. </p>\n',
+          'GId': 29631,
+          'GScore': 5},
+         {'GBody': '<p>I make this sauce quite a bit, it never turns out the '
+                   "same twice, i don't measure stuff!  The secret is butter "
+                   'and grated not shredded Parmesan.  If your sauce is clumpy '
+                   'add flour it does sometime fix it.  I made it this evening '
+                   "and it was clumpy, but it was only because i couldn't find "
+                   'decent grated parm...</p>\n',
+          'GId': 64242,
+          'GScore': 0}],
+ 'QBody': "<p>I've tried making Alfredo sauce several times based on a few "
+          'online recipes.</p>\n'
+          '\n'
+          '<p>It generally comes out pretty tasty, but also with one flaw: the '
+          'sauce is grainy or gritty because the grated Parmesan cheese '
+          "doesn't fully melt.  Doing searches online, most people seem to "
+          'recommend starting with block Parmesan cheese and grating or '
+          'shredding it at home.  However, at least at the stores around here, '
+          'block Parmesan is much more expensive than the usual dried/grated '
+          'stuff.</p>\n'
+          '\n'
+          '<p>Does anyone have a technique for getting the cheaper stuff to '
+          'melt smoothly into the sauce, or alternatively a cheaper source for '
+          'the more suitable types of Parmesan?</p>\n',
+ 'QId': 222,
+ 'QTags': '<sauce><alfredo><budget-cooking>',
+ 'QTitle': 'How can I make cheap, smooth homemade Alfredo sauce?',
+ 'selected_ans': [{'GBody': "The real stuff is expensive because it's still "
+                            "actually cheese. If you're gonna use the canned "
+                            "stuff, you're probably better off just leaving it "
+                            'out entirely (or sprinkling it on top at the '
+                            'table as-desired...)\n'
+                            '\n'
+                            "It doesn't take a lot of cheese either - it's "
+                            'pretty strong stuff. You can probably get away '
+                            'with just a few ounces...\n',
+                   'GId': 229,
+                   'GScore': 7}]}
+[(0.33960027906351997,
+  "If you're gonna use the canned stuff, you're probably better off just "
+  'leaving it out entirely (or sprinkling it on top at the table '
+  'as-desired...)\n'
+  '\n'
+  "It doesn't take a lot of cheese either - it's pretty strong stuff."),
+ (0.33349499873825844,
+  "The real stuff is expensive because it's still actually cheese."),
+ (0.32690472219822136, 'You can probably get away with just a few ounces...')]
+{'Ans': [{'GBody': '<p>Generic replacements:</p>\n'
+                   '\n'
+                   '<ul>\n'
+                   '<li>Seitan: <a '
+                   'href="http://en.wikipedia.org/wiki/Wheat_gluten_(food">http://en.wikipedia.org/wiki/Wheat_gluten_(food</a>)</li>\n'
+                   '<li>Tofu</li>\n'
+                   '<li>Tempeh</li>\n'
+                   '</ul>\n'
+                   '\n'
+                   '<p>Commercial fake meats:</p>\n'
+                   '\n'
+                   '<ul>\n'
+                   '<li>Tofurkey (Roasts, Sausages, Deli Slices)</li>\n'
+                   '<li>Lightlife </li>\n'
+                   '</ul>\n',
+          'GId': 226,
+          'GScore': 5},
+         {'GBody': '<p>Garbanzo beans (chickpeas) make for a delicious veggie '
+                   'burger. Grilled eggplant is also quite lovely.</p>\n',
+          'GId': 256,
+          'GScore': 7},
+         {'GBody': '<p>For many dishes mushrooms are a great meat '
+                   'replacement.</p>\n',
+          'GId': 257,
+          'GScore': 12},
+         {'GBody': '<p>Quorn based products are quite good meat substitutes. '
+                   'As a hardcore carnivore with a vegetarian partner I was '
+                   'pleasantly surprised at how edible her dishes such as stir '
+                   'fry and bolognese sauce are. </p>\n'
+                   '\n'
+                   "<p>The texture isn't at all strange, sludgy or bouncy and "
+                   "it's the closest thing to a meat texture (probably chicken "
+                   "more like) I've ever had that wasn't actually meat.</p>\n"
+                   '\n'
+                   '<p>Quorn is also high in protein and not much else so if '
+                   "you're after your balance of carbs and fats you need to "
+                   'make sure your other ingredients are supplying them. Also '
+                   "quorn on its own doesn't have much of a taste so you need "
+                   'to season your dish accordingly.</p>\n',
+          'GId': 338,
+          'GScore': 7},
+         {'GBody': "<p>I've never had meat so I don't know on a taste basis "
+                   'how they compare but I like the <a '
+                   'href="http://www.morningstarfarms.com/" '
+                   'rel="nofollow">Morningstar</a> foods.  I also grew up '
+                   'eating <a href="http://www.worthingtonfoods.com/" '
+                   'rel="nofollow">Worthington and Loma Linda</a> brands of '
+                   'fake meat but they are hard to find in most areas.  Due to '
+                   "cost and a desire to eat healthier, I don't eat fake meat "
+                   'that much anymore but I still sometimes indulge in <a '
+                   'href="http://www.worthingtonfoods.com/cgi-bin/brandpages/product.pl?product=374&amp;company=41" '
+                   'rel="nofollow">Fri-Chik</a> or Morningstar '
+                   'veggie-burgers.</p>\n',
+          'GId': 360,
+          'GScore': 2},
+         {'GBody': "<p>These don't really taste like meat, but burgers made "
+                   'from marinated tofu are nice. If you freeze the tofu first '
+                   'it gets a chewier texture.</p>\n'
+                   '\n'
+                   '<p>Also, fresh paneer (indian cheese) is a nice addition '
+                   'to vegtable dishes, or can be fried on its own: <a '
+                   'href="http://en.wikipedia.org/wiki/Paneer" '
+                   'rel="nofollow">http://en.wikipedia.org/wiki/Paneer</a></p>\n',
+          'GId': 441,
+          'GScore': 1},
+         {'GBody': 'Pardon my rampant vegerianism, but the trick is not to '
+                   'substitue meat at all.\n'
+                   '\n'
+                   'I generally get my nutrition from other sources, without '
+                   'using meat substitutes at all.\n'
+                   'Unless I really feel like a certain recipe that I used to '
+                   'like back in my meat-eating days.\n'
+                   '\n'
+                   'Use beans, lentils and whole grains for protein.\n'
+                   'Use nuts, seeds and avocadoes (or any other fatty fruits '
+                   'and vegetables) for B-vitamins.\n'
+                   'Use beans (again) and leafy greens for iron and calcium.\n'
+                   '\n'
+                   'So, it turns out my answer is a bit Zen.  Sorry.\n',
+          'GId': 1505,
+          'GScore': 31},
+         {'GBody': '<p>My favorite meat replacement product out is Neat. It is '
+                   '100% vegetarian, soy free, guilt free, and gluten free. '
+                   'Most other replacements I did like the taste or texture, '
+                   'but Neat was different..because I really like it. I have '
+                   'friends who are not vegetarians and love Neat because of '
+                   'how healthy it is and how it tastes just like meat. Check '
+                   'it out! <a href="http://eatneat.com" '
+                   'rel="nofollow">http://eatneat.com</a></p>\n'
+                   '\n'
+                   '<p>Easy to make and all you need is an egg, water and the '
+                   'mix they provide in there package. Healthy and fast '
+                   'food!</p>\n',
+          'GId': 45823,
+          'GScore': 0}],
+ 'QBody': "<p>Let's compile a list of vegetarian/vegan meat replacements.</p>\n"
+          '\n'
+          '<p>Generic replacements:</p>\n'
+          '\n'
+          '<ul>\n'
+          '<li><a href="http://en.wikipedia.org/wiki/Wheat_gluten_(food)" '
+          'rel="nofollow noreferrer">Seitan</a></li>\n'
+          '<li><a href="http://en.wikipedia.org/wiki/Tofu" rel="nofollow '
+          'noreferrer">Tofu</a></li>\n'
+          '<li><a href="http://en.wikipedia.org/wiki/Tempeh" rel="nofollow '
+          'noreferrer">Tempeh</a></li>\n'
+          '<li><a href="http://en.wikipedia.org/wiki/Quorn" rel="nofollow '
+          'noreferrer">Quorn</a></li>\n'
+          '<li><a '
+          'href="https://cooking.stackexchange.com/questions/440/a-vegan-alternative-to-quorn">Quorn '
+          'Vegan Alternatives</a></li>\n'
+          '<li><a href="http://en.wikipedia.org/wiki/Paneer" rel="nofollow '
+          'noreferrer">Paneer</a></li>\n'
+          '<li><a '
+          'href="http://en.wikipedia.org/wiki/Textured_vegetable_protein" '
+          'rel="nofollow noreferrer">TVP</a></li>\n'
+          '</ul>\n'
+          '\n'
+          '<p>Commercial fake meats:</p>\n'
+          '\n'
+          '<ul>\n'
+          '<li><a href="http://www.tofurky.com/" rel="nofollow '
+          'noreferrer">Tofurky</a> (Roasts, Sausages, Deli Slices)</li>\n'
+          '<li><a href="http://www.lightlife.com/index.jsp" rel="nofollow '
+          'noreferrer">Lightlife</a></li>\n'
+          '<li><a href="http://www.morningstarfarms.com/" rel="nofollow '
+          'noreferrer">Morningstar</a></li>\n'
+          '<li><a href="http://www.worthingtonfoods.com/" rel="nofollow '
+          'noreferrer">Worthington Foods</a></li>\n'
+          '<li><a href="http://www.bocaburger.com/" rel="nofollow '
+          'noreferrer">Boca</a> </li>\n'
+          '<li><a href="http://www.simpletruth.com/products/frozen-foods/" '
+          'rel="nofollow noreferrer">Simple Truth</a> (not exclusively '
+          'vegetarian/vegan brand)</li>\n'
+          '</ul>\n'
+          '\n'
+          '<p>Similar products (nutrition):</p>\n'
+          '\n'
+          '<ul>\n'
+          '<li>Beans</li>\n'
+          '<li>Mushrooms (Portobello, oyster, trumpet, so many more…)</li>\n'
+          '</ul>\n',
+ 'QId': 223,
+ 'QTags': '<substitutions><vegetarian><vegan><kosher>',
+ 'QTitle': 'Best meat replacements for a vegetarian/vegan?',
+ 'selected_ans': [{'GBody': 'Pardon my rampant vegerianism, but the trick is '
+                            'not to substitue meat at all.\n'
+                            '\n'
+                            'I generally get my nutrition from other sources, '
+                            'without using meat substitutes at all.\n'
+                            'Unless I really feel like a certain recipe that I '
+                            'used to like back in my meat-eating days.\n'
+                            '\n'
+                            'Use beans, lentils and whole grains for protein.\n'
+                            'Use nuts, seeds and avocadoes (or any other fatty '
+                            'fruits and vegetables) for B-vitamins.\n'
+                            'Use beans (again) and leafy greens for iron and '
+                            'calcium.\n'
+                            '\n'
+                            'So, it turns out my answer is a bit Zen.  '
+                            'Sorry.\n',
+                   'GId': 1505,
+                   'GScore': 31}]}
+[(0.1532950703652021,
+  'Unless I really feel like a certain recipe that I used to like back in my '
+  'meat-eating days.'),
+ (0.14551617898983674,
+  'I generally get my nutrition from other sources, without using meat '
+  'substitutes at all.'),
+ (0.13175971607578707, 'Use beans, lentils and whole grains for protein.'),
+ (0.1305253201355697,
+  'Use nuts, seeds and avocadoes (or any other fatty fruits and vegetables) '
+  'for B-vitamins.'),
+ (0.1286660833003801,
+  'Use beans (again) and leafy greens for iron and calcium.'),
+ (0.1205593321822071, 'So, it turns out my answer is a bit Zen.'),
+ (0.12046123367956049,
+  'Pardon my rampant vegerianism, but the trick is not to substitue meat at '
+  'all.'),
+ (0.06921706527145666, 'Sorry.')]
+6
