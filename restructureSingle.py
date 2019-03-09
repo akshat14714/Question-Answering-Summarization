@@ -8,19 +8,17 @@ def loadFile(filename):
 
 def restructrure(dataFrame):
     myLis = []
+    myDict = {}
     data = dataFrame.to_dict(orient='records')
     prevId = '-1'
     temp = {}
     for row in data:
-        if row['QId'] != prevId:
-            prevId = row['QId']
-            if temp!= {}:
-                myLis.append(temp)
-            temp = {'QId':row['QId'], 'QTitle':row['QTitle'], 'QBody':row['QBody'], 'Ans':[{'GId':row['GId'], 'GBody':row['GBody'], 'GScore':row['GScore']}], 'QTags':row['QTags']}
+        if row['QId'] not in myDict.keys():
+            myDict[row['QId']] = {'QId':row['QId'], 'QTitle':row['QTitle'], 'QBody':row['QBody'], 'Ans':[{'GId':row['GId'], 'GBody':row['GBody'], 'GScore':row['GScore']}], 'QTags':row['QTags']}
         else:
-            temp['Ans'].append({'GId':row['GId'], 'GBody':row['GBody'], 'GScore':row['GScore']})
-    if temp!= {}:
-                myLis.append(temp)
+            myDict[row['QId']]['Ans'].append({'GId':row['GId'], 'GBody':row['GBody'], 'GScore':row['GScore']})
+    for key in myDict.keys():
+        myLis.append(myDict[key])
     return myLis
 
 def get_data():
