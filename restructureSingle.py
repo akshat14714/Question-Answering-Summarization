@@ -19,10 +19,15 @@ def restructrure(dataFrame):
             myDict[row['QId']]['Ans'].append({'GId':row['GId'], 'GBody':row['GBody'], 'GScore':row['GScore']})
     for key in myDict.keys():
         myLis.append(myDict[key])
-    return myLis
+    return myLis, myDict
 
 def get_data():
     df = loadFile('query.csv')
-    myLis = restructrure(df)
+    myLis, myDict = restructrure(df)
     return myLis
 # pprint.pprint(myLis)
+
+def get_specific_query():
+    df = loadFile('q1.csv')
+    myLis, myDict = restructrure(df)
+    return myDict[183]
