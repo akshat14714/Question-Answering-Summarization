@@ -24,10 +24,10 @@ def restructrure(dataFrame):
 def get_data():
     df = loadFile('query.csv')
     myLis, myDict = restructrure(df)
-    return myLis
+    return myLis, myDict
 # pprint.pprint(myLis)
 
 def get_specific_query():
     df = loadFile('q1.csv')
     myLis, myDict = restructrure(df)
-    return myDict[183]
+    return myLis, myDict
