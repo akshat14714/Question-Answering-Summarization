@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 import pprint
+import json
+
 def loadFile(filename):
     csv_read = pd.read_csv(filename)
     return csv_read
@@ -24,10 +26,22 @@ def restructrure(dataFrame):
 def get_data():
     df = loadFile('query.csv')
     myLis, myDict = restructrure(df)
+    f1 = open('query_full.json', 'w')
+    json_file = json.dumps(myDict)
+    f1.write(json_file)
+    f1.close()
     return myLis, myDict
 # pprint.pprint(myLis)
 
 def get_specific_query():
     df = loadFile('q1.csv')
     myLis, myDict = restructrure(df)
+    f2 = open('q1.json', 'w')
+    json_file = json.dumps(myDict)
+    f2.write(json_file)
+    f2.close()
     return myLis, myDict
+
+if __name__ == "__main__":
+    get_data()
+    get_specific_query()
