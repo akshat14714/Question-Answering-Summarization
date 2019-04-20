@@ -5,9 +5,9 @@ import json
 import sys
 from pprint import pprint
 import numpy as np
-from get_similarity import similarity_engine
-
-
+from get_similarity_old import similarity_engine
+from select_answers import get_selected_answers
+from summarize import summarize_query_ans
 
 def load_data(filename):
     '''
@@ -59,7 +59,18 @@ def engine():
     '''
     filename = 'q1.json'
     data = load_data(filename)
+    print("Data loading Complete")
     data = similarity_engine(data)
-    filename = save_data(data,"after_similarity",filename)
+    print("Similarity  calculation Complete")
+    filename_with_simi = save_data(data,"after_similarity",filename)
+    print("Similarity file saved")
+    data = get_selected_answers(data)
+    print("Selecting answer completed")
+    filename_with_selected_ans = save_data(data,"after_selected_answer",filename)
+    print("Answer file saved")
+    data = summarize_query_ans(data)
+    pprint(data)
+    
+
 if __name__ == '__main__':
     engine()
