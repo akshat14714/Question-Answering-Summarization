@@ -3,6 +3,7 @@
 
 import json
 import sys
+import os
 from pprint import pprint
 import numpy as np
 from get_similarity_old import similarity_engine
@@ -17,9 +18,9 @@ def load_data(filename):
         with open(filename,'r') as f:
             data = json.load(f)
         return data
-    except :
-            print("Error in opening " +filename +" file")
-            sys.exit(0)
+    except:
+        print("Error in opening " +filename +" file")
+        sys.exit(0)
 
 
 def load_glove_vector(dimension):
@@ -48,16 +49,21 @@ def save_data(data,extension,filename):
     '''
     Function for exporting python dictionary to a json file
     '''
+    dir_path = os.getcwd()
+    os.mkdir(dir_path + '/' + 'jsonFiles/' + filename)
+    newDir = dir_path + '/' + 'jsonFiles/' + filename + '/'
+
     new_name = filename.split('.')[0]+ "_" + extension + '.json'
     # print(new_name)
-    with open(new_name,'w') as f:
+    with open(newDir+new_name,'w') as f:
         json.dump(data,f)
     return new_name
+
 def engine():
     '''
     Main function that runs the code.
     '''
-    filename = 'q1.json'
+    filename = sys.argv[1]
     data = load_data(filename)
     print("Data loading Complete")
     data = similarity_engine(data)
@@ -71,7 +77,6 @@ def engine():
     data = summarize_query_ans(data)
     pprint(data)
     filename_with_summary = save_data(data,"after_summary",filename)
-    
 
 if __name__ == '__main__':
     engine()
