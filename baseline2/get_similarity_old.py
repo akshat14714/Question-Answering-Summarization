@@ -23,7 +23,7 @@ def get_sentences(paragraph,word_embeddings):
 
     sentences = [y for x in sentences for y in x]
 
-    clean_sentences = pd.Series(sentences).str.replace("[^a-zA-Z]", " ")
+    clean_sentences = pd.Series(sentences).astype(str).str.replace("[^a-zA-Z]", " ")
     clean_sentences = [s.lower() for s in clean_sentences]
     clean_sentences = [remove_stopwords(r.split()) for r in clean_sentences]
 

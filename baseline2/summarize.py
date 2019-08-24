@@ -9,7 +9,10 @@ def summarize_query_ans(myDict):
             if ans['selected']:
                 text += ans['GBody']
 
-        summary = summarize(text)
+        try:
+            summary = summarize(text)
+        except:
+            summary = text
 
         myDict[ques]['summary'] = summary
 
