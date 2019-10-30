@@ -11,10 +11,12 @@ import math
 import json
 import pprint
 dimension = 50
+
 def remove_stopwords(sen):
     stop_words = stopwords.words('english')
     sen_new = " ".join([i for i in sen if i not in stop_words])
     return sen_new
+
 def get_sentences(paragraph,word_embeddings):
     sentences = []
 
@@ -35,6 +37,7 @@ def get_sentences(paragraph,word_embeddings):
             v = np.zeros((dimension,))
         sentence_vectors.append(v)
     return sentences, sentence_vectors
+
 def remove_tag(inp):
     all_tags = ['<p>', '<a>', '<b>', '<blockquote>', '<code>', '<del>', '<dd>', '<dl>', '<dt>', '<em>', '<h1>', '<h2>', '<h3>', '<i>', '<img>', '<kbd>', '<li>', '<ol>', '<p>', '<pre>', '<s>', '<sup>', '<sub>', '<strong>', '<strike>', '<ul>', '<br>', '<hr>']
     all_tags2 = ['</p>', '</a>', '</b>', '</blockquote>', '</code>', '</del>', '</dd>', '</dl>', '</dt>', '</em>', '</h1>', '</h2>', '</h3>', '</i>', '</img>', '</kbd>', '</li>', '</ol>', '</p>', '</pre>', '</s>', '</sup>', '</sub>', '</strong>', '</strike>', '</ul>', '</br>', '</hr>']
@@ -44,6 +47,7 @@ def remove_tag(inp):
         inp = inp.replace(tag, '')
     # ans.append(arr)
     return inp
+
 def load_glove_vector(dimension):
     '''
     Loading the Glove Vector for word embeddings
@@ -65,6 +69,7 @@ def load_glove_vector(dimension):
         print(e)
         sys.exit(0)
     return word_embeddings
+
 def similarity(sentences_query, sentence_vec_query, sentences_ans, sentence_vec_ans,word_embeddings):
     sim_mat = np.zeros([len(sentences_query), len(sentences_ans)])
 
@@ -73,8 +78,11 @@ def similarity(sentences_query, sentence_vec_query, sentences_ans, sentence_vec_
             sim_mat[i][j] = cosine_similarity(sentence_vec_query[i].reshape(1,dimension), sentence_vec_ans[j].reshape(1,dimension))[0,0]
     
     return sim_mat
-def similarity_engine(data):
 
+def similarity_engine(data):
+    '''
+    Main Engine for getting the similarity of the sentences and queries
+    '''
     word_embeddings = load_glove_vector(dimension)
     for ques_id in data:
         query = remove_tag(data[ques_id]['QBody'])
