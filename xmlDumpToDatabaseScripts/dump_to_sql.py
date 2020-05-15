@@ -85,36 +85,36 @@ ANATHOMY = {
         'RelatedPostId': 'INTEGER',
         'PostLinkTypeId': 'INTEGER',
         'LinkTypeId': 'INTEGER'
-    },
-    'users': {
-        'Id': 'INTEGER',
-        'Reputation': 'INTEGER',
-        'CreationDate': 'DATETIME',
-        'DisplayName': 'TEXT',
-        'LastAccessDate': 'DATETIME',
-        'WebsiteUrl': 'TEXT',
-        'Location': 'TEXT',
-        'Age': 'INTEGER',
-        'AboutMe': 'TEXT',
-        'Views': 'INTEGER',
-        'UpVotes': 'INTEGER',
-        'DownVotes': 'INTEGER',
-        'AccountId': 'INTEGER',
-        'ProfileImageUrl': 'TEXT'
-    },
-    'tags': {
-        'Id': 'INTEGER',
-        'TagName': 'TEXT',
-        'Count': 'INTEGER',
-        'ExcerptPostId': 'INTEGER',
-        'WikiPostId': 'INTEGER'
     }
+    # 'users': {
+    #     'Id': 'INTEGER',
+    #     'Reputation': 'INTEGER',
+    #     'CreationDate': 'DATETIME',
+    #     'DisplayName': 'TEXT',
+    #     'LastAccessDate': 'DATETIME',
+    #     'WebsiteUrl': 'TEXT',
+    #     'Location': 'TEXT',
+    #     'Age': 'INTEGER',
+    #     'AboutMe': 'TEXT',
+    #     'Views': 'INTEGER',
+    #     'UpVotes': 'INTEGER',
+    #     'DownVotes': 'INTEGER',
+    #     'AccountId': 'INTEGER',
+    #     'ProfileImageUrl': 'TEXT'
+    # },
+    # 'tags': {
+    #     'Id': 'INTEGER',
+    #     'TagName': 'TEXT',
+    #     'Count': 'INTEGER',
+    #     'ExcerptPostId': 'INTEGER',
+    #     'WikiPostId': 'INTEGER'
+    # }
 }
 
 
 def dump_files(file_names, anathomy,
-               dump_path='/home/deep/Academics/BTP/cooking.stackexchange.com',
-               dump_database_name='initialDataDump.db',
+               dump_path='/home/deep/Academics/IS/TEST/Q-A-Data_annotation-Portal/db',
+               dump_database_name='development.sqlite3',
                insert_query='INSERT INTO {table} ({columns}) VALUES ({values})',
                create_query='CREATE TABLE IF NOT EXISTS {table} ({fields})',
                log_filename='so-parser.log'):
